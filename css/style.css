@@ -12,8 +12,14 @@
 }
 .logo-number{
     text-decoration: none;
+    color:#434455;
 }
-
+.logo-number:hover{
+color:#404bbf;
+}
+.logo-number:focus{
+color:#404bbf;
+}
 .head-logo-text {
 font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -36,7 +42,7 @@ background-color:#FFFFFF;
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
-            color: #2e2f42;
+            color:#2e2f42;
 
 } 
 
@@ -50,6 +56,12 @@ background-color:#FFFFFF;
             color: #434455;
             text-decoration: none;
 }
+.logo-adress:hover{
+    color:#404bbf;
+}
+.logo-adress:focus{
+    color:#404bbf;
+}
 .logo-fon {
     background-color: #2e2f42;
 
@@ -57,11 +69,17 @@ background-color:#FFFFFF;
 .first-item-logo{
     color: #2e2f42;
 }
+.first-item-logo:hover{
+color: #404bbf;
+}
+.first-item-logo:focus{
+color: #404bbf;
+}
 .mail{
     font-style: normal;
 }
 .midle-piece{
-    
+
     font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
@@ -91,7 +109,7 @@ background-color:#FFFFFF;
     background-color: #404BBF;
 
 }
-}
+
 .business-logo-1{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
