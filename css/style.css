@@ -10,16 +10,7 @@
 
     
 }
-.logo-number{
-    text-decoration: none;
-    color:#434455;
-}
-.logo-number:hover{
-color:#404bbf;
-}
-.logo-number:focus{
-color:#404bbf;
-}
+
 .head-logo-text {
 font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -120,36 +111,9 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
-.business-logo-w{font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;}
-.business-text-w{font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}
-.business-logo-e{font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;}
-.business-text-e{font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}
-.business-logo-r{font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;}
-.business-text-r{font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}
+.first-photo{
+    background-color: #FFFFFF;
+}
 .thirt-section-team{
 background-color: #F4F4FD;
 }
